@@ -579,6 +579,7 @@ Development tools and utilities for x402.
 ### Security & Analysis
 
 - [Base Token Safety Scanner](https://base-token-scanner.onrender.com) - Free API that analyzes Base chain ERC-20 tokens for rug pull risks, honeypots, ownership issues, and security flags. Returns risk score with detailed flag breakdown. Built for AI agents and DeFi traders. ([GitHub](https://github.com/0xVarius/base-token-scanner)) ([Guide](https://base-token-scanner.onrender.com/guide))
+- [Tate Programs x402 Surface Checks](https://the402.tateprograms.com) - Paid public-surface readiness checks for x402, MPP, Pay.sh, A2A, and agent-skill launches. Four Base mainnet USDC endpoints for x402 launch triage, 402 Index watch, agent-skill trust checks, and A2A payment-surface triage. ([Discovery](https://the402.tateprograms.com/.well-known/x402)) ([Agent Card](https://the402.tateprograms.com/.well-known/agent.json)) ([OpenAPI](https://the402.tateprograms.com/openapi.json)) ([Docs](https://tateprograms.com/x402-surface-check.html))
 
 
 ## 🧪 Testing & Development
